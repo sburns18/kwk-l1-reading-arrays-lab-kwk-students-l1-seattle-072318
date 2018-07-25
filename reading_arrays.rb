@@ -20,7 +20,7 @@ puts last_student_by_index
 
 
 def first_student_by_method
-  puts first_student_by_method.last
+  first_student_by_method.last
 end
 puts first_student_by_method
 
