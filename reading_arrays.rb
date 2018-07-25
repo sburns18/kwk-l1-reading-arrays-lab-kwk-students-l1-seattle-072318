@@ -19,10 +19,13 @@ end
 puts last_student_by_index
 
 
+
 def first_student_by_method
   first_student_by_method.last
 end
 puts first_student_by_method
+
+
 
 def last_student_by_method
   # Write a solution that returns the first student using the built in .last method
